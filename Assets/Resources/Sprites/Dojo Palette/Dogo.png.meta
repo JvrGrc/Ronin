@@ -1,0 +1,779 @@
+fileFormatVersion: 2
+guid: dac2e7df1fad9d4429a93b2ed0510592
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dogo_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 656
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c580e82222ac5146b46acf9ce26eeba
+      internalID: -1483336239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 656
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fea1a64b9684b4c88f0be655fe161c
+      internalID: -1546931672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 656
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93629f2730cf3d74386fece167f10691
+      internalID: 771990847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 656
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeb618bd83a8204080fe9e9adee1770
+      internalID: 1035534138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 656
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cb240bee3c67c4e813f9d6a6d9051b
+      internalID: -917852008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 608
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1219ec6d8601d041aa769750f5fdb99
+      internalID: -1573683412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 608
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97872085a35a8704cbf57e964a1ad178
+      internalID: 1787876935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 608
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d81a4471e3da1042a3986f7a5789df3
+      internalID: -447143312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 608
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3497dd2840ba5e44f8fe7e78a2c12e5a
+      internalID: -1857230142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_20
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 608
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d785d5a6637c4a04a8947d53a7d52cee
+      internalID: 2020786671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 560
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcd35eed2c68a6439702e611127c6d8
+      internalID: 424413495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 560
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4132e1f61ba664680605d5717a724e
+      internalID: -2126837896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 560
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d787275450c7d44c9eb53a647aa75e0
+      internalID: 127504993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 560
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ddd798b9b7b844f8f3fc94fb09ad88
+      internalID: -1913018854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 560
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb9aae9c9ba1a0488b0a3c886d5ee61
+      internalID: 1097945841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 589
+        width: 41
+        height: 115
+      alignment: 9
+      pivot: {x: 0.19512194, y: 0.13913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0be674880bd14498328ea23a1fc406
+      internalID: 1389447193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 589
+        width: 39
+        height: 115
+      alignment: 9
+      pivot: {x: 0.82051283, y: 0.13913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67e4bef821e2d3499b0a27744a5795f
+      internalID: -1765093280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 589
+        width: 40
+        height: 115
+      alignment: 9
+      pivot: {x: 0.2, y: 0.13913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9866a39e9984da249a73a9b889ff7c1d
+      internalID: -525319095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 589
+        width: 40
+        height: 115
+      alignment: 9
+      pivot: {x: 0.8, y: 0.13913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3dc5a3502ba064693b64bd92ae96d9
+      internalID: -259013021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_6
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 589
+        width: 40
+        height: 115
+      alignment: 9
+      pivot: {x: 0.2, y: 0.13913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2294aeb1c7a2a3248975295f333e16f3
+      internalID: -833244499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_7
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 589
+        width: 40
+        height: 115
+      alignment: 9
+      pivot: {x: 0.8, y: 0.13913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b20c4094c759ff4cbcc12862d50b5b0
+      internalID: 859198462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 589
+        width: 40
+        height: 115
+      alignment: 9
+      pivot: {x: 0.2, y: 0.13913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c874175db1a274c978d6a198a3f0db
+      internalID: 1042637024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_13
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 589
+        width: 40
+        height: 115
+      alignment: 9
+      pivot: {x: 0.8, y: 0.13913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9809bcacef6f984f87823b027121c47
+      internalID: -1775344719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_14
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 589
+        width: 40
+        height: 115
+      alignment: 9
+      pivot: {x: 0.2, y: 0.13913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0efddbfbbf4b94eb3f20ce47c46b0e
+      internalID: -299861427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_15
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 589
+        width: 40
+        height: 115
+      alignment: 9
+      pivot: {x: 0.8, y: 0.13913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117f2693ae88190469a2daab1066d77f
+      internalID: 703389752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_21
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 589
+        width: 41
+        height: 115
+      alignment: 9
+      pivot: {x: 0.19512194, y: 0.13913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc1b2ddd02f65544b615df05e6ba630
+      internalID: -958719639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_22
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 589
+        width: 40
+        height: 115
+      alignment: 9
+      pivot: {x: 0.2, y: 0.13913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02559acecf0672340aa196381521512e
+      internalID: -254251315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_24
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 589
+        width: 40
+        height: 115
+      alignment: 9
+      pivot: {x: 0.8, y: 0.13913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49690848de316a847adb0efb6677b810
+      internalID: 1058948268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dogo_5
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 589
+        width: 40
+        height: 115
+      alignment: 9
+      pivot: {x: 0.2, y: 0.13913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d15a022935b9db40872182245890be0
+      internalID: -1745161510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dogo_0: -1483336239
+      Dogo_1: 1389447193
+      Dogo_10: 771990847
+      Dogo_11: 1035534138
+      Dogo_12: -917852008
+      Dogo_13: -1775344719
+      Dogo_14: -299861427
+      Dogo_15: 703389752
+      Dogo_16: -1573683412
+      Dogo_17: 1787876935
+      Dogo_18: -447143312
+      Dogo_19: -1857230142
+      Dogo_2: -1765093280
+      Dogo_20: 2020786671
+      Dogo_21: -958719639
+      Dogo_22: -254251315
+      Dogo_23: -867538669
+      Dogo_24: 1058948268
+      Dogo_25: 424413495
+      Dogo_26: -2126837896
+      Dogo_27: 127504993
+      Dogo_28: -1913018854
+      Dogo_29: 1097945841
+      Dogo_3: -525319095
+      Dogo_30: -2002431516
+      Dogo_31: 254215242
+      Dogo_37: 1752365095
+      Dogo_38: 1697110327
+      Dogo_39: 1314299838
+      Dogo_4: -259013021
+      Dogo_40: 441664250
+      Dogo_41: 1122551611
+      Dogo_42: 390493491
+      Dogo_43: -1680104011
+      Dogo_44: 1409063951
+      Dogo_45: -284763105
+      Dogo_46: 713832418
+      Dogo_47: 487372091
+      Dogo_5: -1745161510
+      Dogo_6: -833244499
+      Dogo_7: 859198462
+      Dogo_8: 1042637024
+      Dogo_9: -1546931672
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

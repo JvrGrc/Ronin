@@ -1,0 +1,7 @@
+//name,		life,		x,   y, enemy, damage, defense, sprite, movementDistance, speed, atackDistance, weapon(katana:1, lanza:2, hacha:3, arco:4)
+Aliado1,	100,		19,	13,	false,	40,		20,			5,		4,				2,		1,			2
+Enemigo1,	70,			9,	8,	true,	40,		30,			8,		4,				5,		1,			1
+Takeshi,	120,		22,	8,	false,	40,		25,			6,		4,				4,		1,			1
+Enemigo2,	50,			2,	10,	true,	70,		10,			9,		4,				6,		1,			4
+Aliado3,	70,			18,	3,	false,	40,		25,			5,		4,				3,		1,			2
+Enemigo3,	100,		6,	10,	true,	45,		25,			10,		3,				2,		1,			2

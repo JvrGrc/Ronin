@@ -1,0 +1,20 @@
+Señor: ¡Saludos,recluta! Este es tu último entrenamiento antes de unirte al ejército de nuestro pueblo.
+Señor: Comencemos recordando los fundamentos. Mueve al personaje hacia el objetivo para demostrar tus habilidades.
+ : Para moverte por el mapa,desliza el ratón sobre las áreas destacadas del mapa.
+ : Haz clic con el botón izquierdo para dirigirte hacia tu destino.
+ : Cuando un enemigo están dentro de tu rango de ataque,su recuadro se pondrá en rojo.
+ : Ataca haciendo clic en el enemigo dentro de tu alcance.
+Señor: ¡Excelente! Dominas el combate cuerpo a cuerpo. Ahora,pasemos al arte del combate con armas.
+Señor: El uso de armas inflige más daño a tus enemigos. 
+Señor: Dependiendo del arma que tengas afectará la cantidad de daño que infliges y recibes.
+ : Consulta esta imagen para entender las prioridades.
+Señor: Toma esta katana y muestra tu potencial.
+ : *Tu señor te hace entrega de una katana*
+Señor: Acaba con todos los enemigos.
+ : Al hacer clic derecho sobre cualquier personaje podrás consultar sus estadísticas.
+ : Si haces clic derecho sobre el personaje que tiene el turno podrás acceder a su inventario.
+Señor: ¡Enhorabuena,has terminado el entrenamiento! Ya estás listo para...
+Fuera: *Sonidos de espadas y gritos*
+Soldado : ¡Señor están atacando el pueblo! ¡Necesitamos refuerzos!
+Señor: Takeshi, tu primera misión ha llegado antes de lo esperado.
+Señor: Demuestrales todo tu potencial.
