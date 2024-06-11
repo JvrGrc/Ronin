@@ -1,2 +1,3 @@
-# Ronin
-Ronin is an end-of-course project consisting of a 2D Tactical RPG video game with Pixel Art artistic style, based on feudal Japan.
+![logo de Ronin](Assets/Resources/iconroninedit.png)
+
+Ronin es un proyecto de final de curso que consiste en un RPG Táctico 2D creado con Pixel Art como estilo artístico y tiene como temática el Japón feudal.
